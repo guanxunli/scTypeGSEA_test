@@ -1,1 +1,1 @@
-# scTypeGSEA_test
+This project is to do test for package scTypeGSEA.
